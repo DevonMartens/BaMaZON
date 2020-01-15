@@ -1,6 +1,9 @@
 # BaMaZON
 A node and mySQL app.
 
+Github link:
+https://devonmartens.github.io/BaMaZON/
+
 The database used for this repository is a MySQL Database called bamazon.
 
 
